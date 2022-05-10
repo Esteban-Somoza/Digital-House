@@ -1,0 +1,18 @@
+[
+  {
+    "titulo": "Repasar javascript",
+    "estado": "Completar"
+  },
+  {
+    "titulo": "Hacer una app de tareas",
+    "estado": "hola"
+  },
+  {
+    "titulo": "Break",
+    "estado": "Pendiente"
+  },
+  {
+    "titulo": "hola",
+    "estado": "Pendiente"
+  }
+]
